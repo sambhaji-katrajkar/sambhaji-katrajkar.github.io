@@ -1,6 +1,5 @@
-Thanks for downloading this template!
-
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+- 👋 Hi, I’m @sambhaji-katrajkar
+- 👀 I’m a Software engineer
+- 🌱 I’m currently working in Persistent Systems
+- 💞️ I’m having 10+ years of experience in web application development
+- 📫 You can reach me on linkedin https://www.linkedin.com/in/sambhaji-katrajkar-478a4852/
